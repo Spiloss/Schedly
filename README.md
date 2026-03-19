@@ -66,12 +66,12 @@ Controllo completo delle proprie prenotazioni con feedback visivo per distinguer
 
 ## Setup rapido con Supabase
 
-### 1️⃣ Prerequisiti
+###  Prerequisiti
 
 - Account Supabase attivo
 - Progetto PostgreSQL su Supabase
 
-### 2️⃣ Creazione tabelle
+### Creazione tabelle
 
 Esegui queste query SQL nel **SQL Editor di Supabase**:
 
