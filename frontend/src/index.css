@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f3f4f6;
+}
+
+.fc {
+  --fc-border-color: #e2e8f0;
+  --fc-page-bg-color: #ffffff;
+
+  font-family: inherit;
+}
+
+.fc-col-header-cell {
+  background: #f8fafc;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 11px;
+  letter-spacing: 0.05em;
+}
+
+.fc-timegrid-slot {
+  height: 48px;
+}
+
+.fc-event {
+  border-radius: 10px !important;
+  border: none !important;
+}
+
+.fc-button {
+  border-radius: 10px !important;
+  font-weight: 700;
+  padding: 6px 14px !important;
+}
+
+.fc-day-today {
+  background: #f8fafc !important;
+}
+
+.fc-timegrid-slot {
+  height: 55px;
+}
+
+.fc-daygrid-event {
+  min-height: 36px;
+}
